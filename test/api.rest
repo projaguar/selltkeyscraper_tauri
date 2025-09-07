@@ -1,0 +1,9 @@
+###
+POST https://selltkey.com/scb/api/getLoginInfo.asp
+Content-Type: application/json
+
+{
+  "userid": "test@test.com",
+  "userpwd": "12345",
+  "version": "1.5.3"
+}
